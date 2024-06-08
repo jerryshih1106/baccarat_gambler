@@ -1,4 +1,4 @@
-# baccarat_gambler
+# Baccarat Gambler
 
 
 ## Run ##
@@ -31,6 +31,7 @@ python main.py
 
 ```
 ## ---- python/method/NEW_METHOD.py ----
+
 from ..base.base_baccarat import BaseBaccaratGambler
 
 class NEW_METHODOLOGY(BaseBaccaratGambler):
@@ -48,6 +49,7 @@ class NEW_METHODOLOGY(BaseBaccaratGambler):
 
 ```
 ## ---- python/except_handler.py ----
+
 class YOUR_EXCEPTION_NAME(Exception):
     def __init__(self, message):
         self.message = f"YOUR REMINE: {message}"
@@ -57,6 +59,7 @@ class YOUR_EXCEPTION_NAME(Exception):
 
 ```
 ## ---- python/except_handler.py ----
+
 def except_decorator(func):
     def wrapper(*args, **kargs):
         try:
@@ -67,8 +70,10 @@ def except_decorator(func):
         except MethodChooseError as e:
             print(f"{e.__class__.__name__}: {e.message}")
             exit()
+
         except YOUR_EXCEPTION as e:
             ...
+
         except Exception as e:
             print(f"Error: {e}")
     return wrapper
