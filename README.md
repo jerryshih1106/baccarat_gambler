@@ -30,17 +30,19 @@ python main.py
 新增算牌的公式：
 
 ```
-## ---- python/method/NEW_METHOD.py ----
+## ---- python/method/YOUR_METHOD.py ----
 
 from ..base.base_baccarat import BaseBaccaratGambler
 
-class NEW_METHODOLOGY(BaseBaccaratGambler):
+class YOUR_METHOD(BaseBaccaratGambler):
     def __init__(self):
         super().__init__()
         ...
     def start(self):
         ...
 ```
+
+![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/c3ddf09e-b247-46ee-8c54-772b24bf77bd)
 
 
 ### Error Except: <h3>
