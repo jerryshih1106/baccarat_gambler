@@ -1,5 +1,6 @@
 # baccarat_gambler
 
+
 ## Run ##
 
 ### 執行 <h3> 
@@ -10,12 +11,19 @@ python main.py
 
 執行main.py
 
+### 執行 <h3> 
+
+1. 選擇方法, 若不填為預設： 高階算排法
+2. 輸入閒家上把牌，只接受撲克牌上有的數字以及英文. eg：Ａ j 12
+3. 輸入莊家牌
+4. 贏錢
+
 
 ![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/717a2439-25a1-4042-b190-d5ff013776a4)
 
 
 
-## working level ##
+## Ｗorking Ｌevel ##
 
 ### Methodology <h3>
 
