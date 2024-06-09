@@ -19,8 +19,10 @@ python main.py
 4. 贏錢
 
 
-![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/717a2439-25a1-4042-b190-d5ff013776a4)
+![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/7862ab55-092b-4f5b-ab51-8aba6ce3193d)
 
+
+![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/94c418a7-2e7d-427d-aedc-135a61a7be02)
 
 
 ## Ｗorking Ｌevel ##
