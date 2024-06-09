@@ -21,8 +21,8 @@ python main.py
 
 ![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/7862ab55-092b-4f5b-ab51-8aba6ce3193d)
 
+![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/3f3e18bb-f900-4953-b781-5bd7bb341f9c)
 
-![image](https://github.com/jerryshih1106/baccarat_gambler/assets/66662065/94c418a7-2e7d-427d-aedc-135a61a7be02)
 
 
 ## Ｗorking Ｌevel ##
